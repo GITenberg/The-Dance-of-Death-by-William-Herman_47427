@@ -1,5 +1,11 @@
 _repo: The-Dance-of-Death-by-William-Herman_47427
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47427-h/images/cover.jpg
 description: Supposed authors are Ambrose Bierce and Thomas A. Harcourt.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47427#The-Dance-of-Death-by-William-Herman
 gutenberg_issued: '2014-11-22'
 gutenberg_type: Text
 identifiers:
